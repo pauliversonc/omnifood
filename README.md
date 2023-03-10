@@ -28,4 +28,3 @@ To see the Omnifood website in action, visit [https://omnifood-pauliversonc.netl
 ## Contributors
 
 **Paul Iverson Cortez**
-**Jonas Schmedtmann**
