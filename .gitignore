@@ -1,2 +1,6 @@
-.vscode
+.vscode/
 content.md
+.parcel-cache/
+node_modules/
+.DS_Store
+dist/

@@ -1,0 +1,25 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "This project was created during my bootcamp on Udemy to practice HTML, CSS, JavaScript, Modern Website Design, Website Characteristics, and Responsive Design. Our goal was to build a website that demonstrates our understanding of web development concepts and techniques, and to apply these skills to create a responsive and modern website.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauliversonc/omnifood.git"
+  },
+  "keywords": [
+    "omnifood"
+  ],
+  "author": "Paul Iverson Cortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauliversonc/omnifood/issues"
+  },
+  "homepage": "https://github.com/pauliversonc/omnifood#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
