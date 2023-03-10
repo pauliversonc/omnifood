@@ -1,7 +1,5 @@
 # Omnifood
 
-## Description
-
 This project was created during my bootcamp on Udemy to practice HTML, CSS, JavaScript, Modern Website Design, Website Characteristics, and Responsive Design. Our goal was to build a website that demonstrates our understanding of web development concepts and techniques, and to apply these skills to create a responsive and modern website.
 
 ## Technologies Used
@@ -29,5 +27,5 @@ To see the Omnifood website in action, visit [https://ecobuilders.netlify.app/](
 
 ## Contributors
 
-[Jonas Schmedtmann]
-[Paul Iverson Cortez]
+**Paul Iverson Cortez**
+**Jonas Schmedtmann**
