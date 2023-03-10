@@ -2,9 +2,10 @@
   "name": "omnifood",
   "version": "1.0.0",
   "description": "This project was created during my bootcamp on Udemy to practice HTML, CSS, JavaScript, Modern Website Design, Website Characteristics, and Responsive Design. Our goal was to build a website that demonstrates our understanding of web development concepts and techniques, and to apply these skills to create a responsive and modern website.",
+  "default" : "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "repository": {
     "type": "git",
