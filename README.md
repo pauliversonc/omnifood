@@ -23,7 +23,7 @@ Our website includes the following features:
 
 ## Demo
 
-To see the Omnifood website in action, visit [https://ecobuilders.netlify.app/](https://ecobuilders.netlify.app/).
+To see the Omnifood website in action, visit [https://omnifood-pauliversonc.netlify.app/](https://omnifood-pauliversonc.netlify.app/).
 
 ## Contributors
 
